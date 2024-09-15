@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hy%20there👋&section=header&reversal=true&textBg=false&fontColor=ffff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi%20there👋&section=header&reversal=true&textBg=false&fontColor=ffff"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Igor-Brandalise&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
