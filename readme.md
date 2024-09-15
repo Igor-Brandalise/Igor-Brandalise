@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi%20there👋&section=header&reversal=true&textBg=false&fontColor=ffff"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Igor-Brandalise&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Igor-Brandalise&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Igor-Brandalise&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1%22%20height=%22150%22%20alt=%22Estat%C3%ADsticas%20do%20GitHub%22"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Igor-Brandalise&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=1%22%20height=%22150%22%20alt=%22Linguagens%20mais%20usadas" />
 </div>
 
 ###
