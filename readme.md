@@ -46,6 +46,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Igor-Brandalise/Igor-Brandalise/output/snake.svg" alt="Snake animation" />
 
-###
+
