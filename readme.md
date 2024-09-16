@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi%20there👋&section=header&reversal=true&textBg=false&fontColor=ffff"/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Igor-Brandalise&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=#ffff" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Igor-Brandalise&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Igor-Brandalise&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Brandalise&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=#ffff" />
-</div>   
+  
 ###
 
 <h1 align="left">Minhas Habilidades</h1>
