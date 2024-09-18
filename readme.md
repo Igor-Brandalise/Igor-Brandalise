@@ -48,7 +48,9 @@
   </a>
 </div>
 
-![snake gif]("https://raw.githubusercontent.com/Igor-Brandalise/Igor-Brandalise/output/snake.svg" alt="Snake animation")
+![snake gif](https://github.com/Igor-Brandalise/Igor-Brandalise/blob/output/github-contribution-grid-snake.gif)
+
+
 
 ###
 
