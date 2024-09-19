@@ -55,6 +55,9 @@
 </picture>
 
 
+<img src="https://github.com/Igor-Brandalise/Igor-Brandalise/blob/output/github-contribution-grid-snake.gif"/>
+![snake gif](https://github.com/Igor-Brandalise/Igor-Brandalise/blob/output/github-contribution-grid-snake.gif)
+
 ###
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&reversal=true&textBg=false"/>
