@@ -35,7 +35,7 @@
 <p align="left">
   -<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand emoji" width="25" height="25" /> Olá! Meu nome é Igor Brandalise e sou Desenvolvedor Frontend.
   <br>
- - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain emoji" width="25" height="25" /> Meu objetivo atual é conseguir meu primeiro emprego, e no futuro, me tornar um Tech Lead.
+ -<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain emoji" width="25" height="25" /> Meu objetivo atual é conseguir meu primeiro emprego, e no futuro, me tornar um Tech Lead.
 </p>
 
 ###
@@ -46,12 +46,11 @@
   <a href="https://www.linkedin.com/in/igor-brandalise">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
+  
   <a href="https://instagram.com/igor_brandalise">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
 </div>
-
-
 
 ###
 
