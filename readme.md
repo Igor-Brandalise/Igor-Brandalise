@@ -1,6 +1,6 @@
 <hr>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20there%20👋&reversal=true&textBg=false&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20there%20👋&reversal=true&textBg=false&section=header&fontSize=55&animation=fadeIn&fontAlign=50"/>
 
 
 <div align="center">
@@ -41,5 +41,5 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&textBg=false&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&textBg=false&section=footer&fontSize=55&fontAlign=50"/>
 <hr>
