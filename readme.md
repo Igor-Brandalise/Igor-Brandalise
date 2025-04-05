@@ -1,5 +1,7 @@
 <hr>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi%20there👋&section=header&reversal=true&textBg=false&fontColor=ffff"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20there%20👋&reversal=true&textBg=false&section=header"/>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Igor-Brandalise&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
@@ -12,47 +14,32 @@
 
 <h1 align="left">Minhas Habilidades</h1>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-</div>
-
-###
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src= "https://skillicons.dev/icons?i=js,ts,html,css,tailwind,vscode,git,github,figma"/>
+  </a>
+</p>
 
 <h2 align="left">Sobre Mim</h2>
 
-<p align="left">
-  -<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand emoji" width="25" height="25" /> Olá! Meu nome é Igor Brandalise e sou Desenvolvedor Frontend.
-  <br>
- -<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain emoji" width="25" height="25" /> Meu objetivo atual é conseguir meu primeiro emprego, e no futuro, me tornar um Tech Lead.
-</p>
+- 🚀 Desenvolvedor Frontend em formação  
+- 🎯 Buscando minha primeira oportunidade na área  
+- 💡 Apaixonado por tecnologia e resolução de problemas  
+- 🎯 Objetivo: me tornar Tech Lead no futuro 
 
 ###
 
 <h2 align="left">Entre em Contato</h2>
 
-<div>
-  <a href="https://www.linkedin.com/in/igor-brandalise">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://instagram.com/igor_brandalise">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
-  </a>
-</div>
+
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/igor-brandalise/")
+  [![instagran](https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white)]("https://instagram.com/igor_brandalise/")
+  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]("https://my-portfolio-jet-one-16.vercel.app/")
+
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=250&section=footer&reversal=true&textBg=false"/>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&textBg=false&section=footer"/>
 <hr>
