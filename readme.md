@@ -37,7 +37,8 @@
   [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-portfolio-jet-one-16.vercel.app)
 
 
-###
+
+<img src="https://raw.githubusercontent.com/Igor-Brandalise/Igor-Brandalise/output/snake.svg" alt="Snake animation" />
 
 
 
