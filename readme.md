@@ -1,12 +1,28 @@
-<hr>
+<hr> 
+<p align="center">
+  <img width=100%
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Igor%20Brandalise&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Front-end%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
+  />
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20there%20👋&reversal=true&textBg=false&section=header&fontSize=55&animation=fadeIn&fontAlign=50"/>
 
 <div align="center" display="flex" justify-content="center" flex-direction="row">
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h2>📊 Visão geral do GitHub</h2>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Igor-Brandalise&show_icons=true&hide_border=true&theme=github_dark&icon_color=FF3B30"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Brandalise&layout=compact&hide_border=true&theme=github_dark"
+    alt="Linguagens mais usadas"
+  />
+</p>
+
 
 </div>
 
