@@ -5,7 +5,6 @@
   />
 </p>
 
-
 <div align="center" display="flex" justify-content="center" flex-direction="row">
 
 <h2>📊 Visão geral do GitHub</h2>
@@ -55,6 +54,10 @@
 
 <img src="https://raw.githubusercontent.com/Igor-Brandalise/Igor-Brandalise/output/snake.svg" alt="Snake animation" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&textBg=false&section=footer&fontSize=55&fontAlign=50"/>
+<p align="center">
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&reversal=true&textBg=false&section=footer&fontSize=55&fontAlign=50&twinkling&color=0:0B1220,50:9B111E,100:FF3B30"/>
+
+</p>
 
 <hr>
