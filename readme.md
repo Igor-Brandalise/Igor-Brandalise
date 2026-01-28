@@ -7,17 +7,17 @@
 
 <div align="center" display="flex" justify-content="center" flex-direction="row">
 
-<h2>📊 Visão geral do GitHub</h2>
+<h2 align="left">📊 Visão geral do GitHub</h2>
 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Igor-Brandalise&show_icons=true&hide_border=true&theme=github_dark&icon_color=FF3B30"
+    src="https://github-readme-stats.vercel.app/api?username=Igor-Brandalise&show_icons=true&hide_border=true&theme=radical&icon_color=FF3B30"
     alt="GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Brandalise&layout=compact&hide_border=true&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Brandalise&layout=compact&hide_border=true&theme=radical"
     alt="Linguagens mais usadas"
   />
 </p>
