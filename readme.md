@@ -1,23 +1,23 @@
 <hr> 
 <p align="center">
   <img width=100%
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Igor%20Brandalise&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Front-end%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
+    src="https://capsule-render-one.vercel.app/api?type=waving&height=230&text=Igor%20Brandalise&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Front-end%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:9B111E,100:FF3B30"
   />
 </p>
 
-<div align="center" display="flex" justify-content="center" flex-direction="row">
+<div align="center">
 
 <h2 align="left">📊 Visão geral do GitHub</h2>
 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Igor-Brandalise&show_icons=true&hide_border=true&theme=radical&icon_color=FF3B30"
+    src="https://github-stats-readme-sage.vercel.app/api?username=igor-Brandalise&show_icons=true&hide_border=true&theme=radical&icon_color=FF3B30"
     alt="GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Brandalise&layout=compact&hide_border=true&theme=radical"
+    src="https://github-stats-readme-sage.vercel.app/api/top-langs/?username=igor-Brandalise&layout=compact&hide_border=true&theme=radical"
     alt="Linguagens mais usadas"
   />
 </p>
@@ -31,7 +31,7 @@
 
 ###
 
-<h1 align="left">Minhas Habilidades</h1>
+<h2 align="left">Minhas Habilidades</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -41,10 +41,10 @@
 
 <h2 align="left">Sobre Mim</h2>
 
-- 🚀 Desenvolvedor Frontend em formação  
-- 🎯 Buscando minha primeira oportunidade na área  
-- 💡 Apaixonado por tecnologia e resolução de problemas  
-- 🎯 Objetivo: me tornar Tech Lead no futuro 
+- 🚀 Desenvolvedor Front-end em início de carreira  
+- 💡 Focado no desenvolvimento de interfaces modernas e funcionais  
+- 🛠️ Construindo experiência prática por meio de projetos e estudos contínuos  
+- 🎯 Objetivo de longo prazo: me tornar Tech Lead
 
 ###
 
@@ -58,7 +58,7 @@
 
 <p align="center">
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&reversal=true&textBg=false&section=footer&fontSize=55&fontAlign=50&twinkling&color=0:0B1220,50:9B111E,100:FF3B30"/>
+  <img width=100% src="https://capsule-render-one.vercel.app/api?type=waving&height=200&reversal=true&textBg=false&section=footer&fontSize=55&fontAlign=50&twinkling&color=0:0B1220,50:9B111E,100:FF3B30"/>
 
 </p>
 
